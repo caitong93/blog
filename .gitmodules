@@ -1,0 +1,3 @@
+[submodule "themes/basicwebtheme"]
+	path = themes/basicwebtheme
+	url = https://github.com/mdashx/basicwebtheme
