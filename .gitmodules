@@ -4,3 +4,6 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/caitong93/caitong93.github.io.git
+[submodule "themes/gindoro"]
+	path = themes/gindoro
+	url = https://github.com/cdipaolo/gindoro
