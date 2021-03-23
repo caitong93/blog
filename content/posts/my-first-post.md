@@ -1,6 +1,6 @@
 ---
 title: "Envoy Hot Restart Implementation Analysis"
-date: 2020-07-18T20:29:23+08:00
+date: 2021-03-23T11:14:52+08:00
 draft: false
 ---
 
