@@ -2,3 +2,49 @@ baseURL = "https://caitong93.github.io"
 languageCode = "en-us"
 title = "Code Notes"
 theme = "kiss"
+
+copyright = "&copy; <a href=\"https://github.com/caitong93\">Tong Cai</a> 2021"
+disqusShortname = "shortname"
+googleAnalytics = ""
+Paginate = 5 # Number of posts per page
+enableRobotsTXT = true
+
+[params.rss] # Adding this tag enables RSS feed
+includeContent = true # Includes whole content in rss
+authorName = "Tong Cai" # Author full name
+authorEmail = "caitong93@gmail.com" # Author email
+
+[params.assets]
+customCSS = ["css/custom.css"]
+
+[params.info]
+adsense = "" # Adsense ID (ID only, without ca-pub-)
+enableSocial = true # Adds OpenGraph and Twitter cards
+homeTitle = "" # Title for home page
+poweredby = true # Adds powered by hugo and kiss below Copyright
+related = true # Includes related articles at the bottom of the article
+codeCopy = true # Add copy button above code blocks
+taxonomiesCount = true # Add taxonomies count
+
+[params.social]
+twitter = ""
+github = "caitong93"
+email = ""
+linkedin = ""
+facebook = ""
+instagram = ""
+codepen = ""
+rss = "index.xml" # Add this to show RSS button in social.
+
+[params.social.config]
+platforms = ["github"]
+
+[params.matomoAnalytics]
+siteID = 1
+rootURL = "//caitonggithub.matomo.cloud/"
+
+[taxonomies]
+tag ="tags"
+
+[blackfriday]
+hrefTargetBlank = true
