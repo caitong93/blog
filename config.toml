@@ -4,7 +4,6 @@ title = "Code Notes"
 theme = "kiss"
 
 copyright = "&copy; <a href=\"https://github.com/caitong93\">Tong Cai</a> 2021"
-disqusShortname = "shortname"
 googleAnalytics = ""
 Paginate = 5 # Number of posts per page
 enableRobotsTXT = true
