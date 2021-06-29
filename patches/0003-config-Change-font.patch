@@ -1,0 +1,26 @@
+From 85014a6f9d7b9b0e324b0a0429015dea7e18ab08 Mon Sep 17 00:00:00 2001
+From: Tong Cai <caitong93@gmail.com>
+Date: Thu, 1 Apr 2021 22:01:10 +0800
+Subject: [PATCH 3/3] config: Change font.
+
+Signed-off-by: Tong Cai <caitong93@gmail.com>
+---
+ static/css/style.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/static/css/style.css b/static/css/style.css
+index a5defb9..477c11e 100644
+--- a/static/css/style.css
++++ b/static/css/style.css
+@@ -333,7 +333,7 @@ select,
+ textarea {
+   /*font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ Pro",
+     "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, sans-serif;*/
+-  font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
++  font-family: "Microsoft Yahei","Hiragino Sans GB",Helvetica,"Helvetica Neue","微软雅黑",Tahoma,Arial,sans-serif;
+ }
+ 
+ code,
+-- 
+2.23.0
+
